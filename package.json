@@ -1,0 +1,25 @@
+{
+  "name": "web_project_scaffolding",
+  "version": "1.0.0",
+  "description": "Web project scaffolding",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CatalinScaesteanu/Web-Project-Scaffolding.git"
+  },
+  "author": "Catalin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CatalinScaesteanu/Web-Project-Scaffolding/issues"
+  },
+  "homepage": "https://github.com/CatalinScaesteanu/Web-Project-Scaffolding#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-watch": "^4.3.10"
+  }
+}
